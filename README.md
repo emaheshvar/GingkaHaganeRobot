@@ -1,1 +1,1 @@
-# GingkaHaganeRobot Hi me Gingka 
+# GingkaHaganeRobot 
